@@ -1,0 +1,48 @@
+/*
+Theme Name: Masters of Brugge
+Theme URI: http://example.com/masters-of-brugge
+Author: Your Name
+Author URI: http://example.com
+Description: A WordPress theme for the "Masters of Brugge" tournament registration site.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: tournament, registration, sports
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #0073aa;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
