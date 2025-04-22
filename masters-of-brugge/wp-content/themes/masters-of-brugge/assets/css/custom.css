@@ -76,4 +76,30 @@ footer {
   background: #005177;
 }
 
+.test {
+  background: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.h1.test {
+  color: #fff;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+}
+.h1.test2 {
+  color: #000;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-align: left;
+  margin: 10px 0;
+}
+
 /*# sourceMappingURL=custom.css.map */
